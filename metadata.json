@@ -1,0 +1,5 @@
+{
+  "name": "Wayfair 市场调研 Agent",
+  "description": "基于离线 HTML 解析、竞品分析与 AI 总结的单类目调研助手",
+  "requestFramePermissions": []
+}
